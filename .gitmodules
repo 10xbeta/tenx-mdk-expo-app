@@ -1,0 +1,3 @@
+[submodule "modules/tenx-mdk-ble-rn-library"]
+	path = modules/tenx-mdk-ble-rn-library
+	url = https://github.com/jasmine10xbeta/tenx-mdk-ble-rn-library.git
